@@ -1,11 +1,3 @@
 /**
- * PizzaController
- *
- * @description :: Server-side logic for managing Pizzas
- * @help        :: See http://sailsjs.org/#!/documentation/concepts/Controllers
+ * Created by Alex on 14/8/2017.
  */
-
-module.exports = {
-	
-};
-

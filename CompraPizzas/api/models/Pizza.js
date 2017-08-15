@@ -1,3 +1,8 @@
-/**
- * Created by Alex on 14/8/2017.
- */
+module.exports = {
+    attributes: {
+        ingredientes: {
+            collection: 'Ingrediente',
+            via: 'fkIdPizza'
+        }
+    }
+};
