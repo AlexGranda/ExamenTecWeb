@@ -17,6 +17,10 @@ module.exports = {
         },
         correo: {
             type: "string"
+        },
+        pizzas: {
+          colection: 'Pizza',
+          via: 'id_user'
         }
     }
 };

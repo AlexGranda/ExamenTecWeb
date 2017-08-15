@@ -5,7 +5,7 @@ declare var module:any;
 
 module.exports = {
   attributes: {
-    nombre:{
+    nombreIngrediente:{
       type:'string'
     },
     fkIdPizza: {

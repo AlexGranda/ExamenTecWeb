@@ -4,6 +4,9 @@
 
 declare var module:any;
 
+declare let Pizza;
+declare let _;
+
 module.exports = {
   attributes: {
     nombres: {
@@ -20,6 +23,11 @@ module.exports = {
     },
     correo: {
       type: "string"
+    },
+    afterDestroy: function (destroyedRecords, cb) {
+      Pizza.destroy({
+        id_user: _.pluck(destroyedRecords, 'id')
+      }).exec(cb)
     }
   }
 

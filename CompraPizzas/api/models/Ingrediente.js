@@ -1,6 +1,6 @@
 module.exports = {
     attributes: {
-        nombre: {
+        nombreIngrediente: {
             type: 'string'
         },
         fkIdPizza: {
