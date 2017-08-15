@@ -20,10 +20,6 @@ module.exports = {
     },
     correo: {
       type: "string"
-    },
-    matriculas:{
-      collection:'Matricula',
-      via:'fkIdUsuario'
     }
   }
 
