@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="408d7628-2c53-4976-84f5-884928d0a645" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CompraPizzas/api/controllers/AuthController.js" afterPath="$PROJECT_DIR$/CompraPizzas/api/controllers/AuthController.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CompraPizzas/api/controllers/PizzaController.js" afterPath="$PROJECT_DIR$/CompraPizzas/api/controllers/PizzaController.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CompraPizzas/api/models/Ingrediente.js" afterPath="$PROJECT_DIR$/CompraPizzas/api/models/Ingrediente.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CompraPizzas/api/models/Ingrediente.ts" afterPath="$PROJECT_DIR$/CompraPizzas/api/models/Ingrediente.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CompraPizzas/api/models/Pizza.js" afterPath="$PROJECT_DIR$/CompraPizzas/api/models/Pizza.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CompraPizzas/api/models/Pizza.ts" afterPath="$PROJECT_DIR$/CompraPizzas/api/models/Pizza.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CompraPizzas/api/models/Usuario.js" afterPath="$PROJECT_DIR$/CompraPizzas/api/models/Usuario.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CompraPizzas/api/models/Usuario.ts" afterPath="$PROJECT_DIR$/CompraPizzas/api/models/Usuario.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CompraPizzas/config/routes.js" afterPath="$PROJECT_DIR$/CompraPizzas/config/routes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CompraPizzas/tasks/pipeline.js" afterPath="$PROJECT_DIR$/CompraPizzas/tasks/pipeline.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CompraPizzas/views/homepage.ejs" afterPath="$PROJECT_DIR$/CompraPizzas/views/homepage.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CompraPizzas/views/layout.ejs" afterPath="$PROJECT_DIR$/CompraPizzas/views/layout.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CompraPizzas/views/login.ejs" afterPath="$PROJECT_DIR$/CompraPizzas/views/login.ejs" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,8 +21,8 @@
       <file leaf-file-name="homepage.ejs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CompraPizzas/views/homepage.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="92" column="17" lean-forward="false" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
+            <state relative-caret-position="127">
+              <caret line="91" column="2" lean-forward="false" selection-start-line="91" selection-start-column="2" selection-end-line="91" selection-end-column="2" />
               <folding>
                 <element signature="n#style#0;n#select#0;n#div#0;n#form#0;n#body#0;n#!!top" expanded="true" />
               </folding>
@@ -729,7 +716,7 @@
       <option name="presentableId" value="Default" />
       <updated>1502756205337</updated>
       <workItem from="1502756209754" duration="49000" />
-      <workItem from="1502756285933" duration="13286000" />
+      <workItem from="1502756285933" duration="13392000" />
     </task>
     <task id="LOCAL-00001" summary="Creacion de proyecto CompraPizzas, gitignore">
       <created>1502757017467</created>
@@ -759,11 +746,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502760255217</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ultimo intento">
+      <created>1502773212127</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1502773212127</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13335000" />
+    <option name="totallyTimeSpent" value="13441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1934" height="1042" extended-state="0" />
@@ -800,7 +794,8 @@
     <MESSAGE value="Creacion de modelo Usuario" />
     <MESSAGE value="CReacion de pagina de login, añadir bootstrap" />
     <MESSAGE value="Creacion de authcontroller" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creacion de authcontroller" />
+    <MESSAGE value="Ultimo intento" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ultimo intento" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -895,9 +890,9 @@
         <state relative-caret-position="400">
           <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
           <folding>
-            <marker date="1502773118967" expanded="true" signature="1761:3811" ph="..." />
-            <marker date="1502773118967" expanded="true" signature="1790:2731" ph="..." />
-            <marker date="1502773118967" expanded="true" signature="2797:3699" ph="..." />
+            <marker date="1502773232163" expanded="true" signature="1761:3811" ph="..." />
+            <marker date="1502773232163" expanded="true" signature="1790:2731" ph="..." />
+            <marker date="1502773232163" expanded="true" signature="2797:3699" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1052,8 +1047,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CompraPizzas/views/homepage.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="92" column="17" lean-forward="false" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
+        <state relative-caret-position="127">
+          <caret line="91" column="2" lean-forward="false" selection-start-line="91" selection-start-column="2" selection-end-line="91" selection-end-column="2" />
           <folding>
             <element signature="n#style#0;n#select#0;n#div#0;n#form#0;n#body#0;n#!!top" expanded="true" />
           </folding>
